@@ -120,7 +120,7 @@ ul {
     flex: 1;
     color: var(--text);
     margin-left: 10px;
-    font-size: 10px;
+    font-size: 20px;
 }
 
 .task-text.completed {
